@@ -11,5 +11,5 @@ Essa base de dados é composta por informações preliminares provenientes do fo
 https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira
 
 
-O objeto desse projeto foi realizar algumas etapas do processo de ETL e realizar uma análise exploratória das Ocorrências Aeronáuticas do Brasil nos últmos 10 anos.
+O objeto desse projeto foi realizar algumas etapas do processo de ETL e realizar uma análise exploratória das Ocorrências Aeronáuticas do Brasil nos últimos 10 anos.
 
