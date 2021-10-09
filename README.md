@@ -1,4 +1,4 @@
-# Analise de dados do CENIPA com Pyhon 
+# Analise de dados do CENIPA com Python 
 
 Para esse projeto foi utilizado uma base de dados do CENIPA.
 
